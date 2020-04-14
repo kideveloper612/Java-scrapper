@@ -49,7 +49,6 @@ public class ProductoScrapper extends Timer  implements Agents{
     String asinProd="";
     String urlProd="";
 
-
     public void getJson(){
         try {
             String sURL = "http://falcon.proxyrotator.com:51337/?apiKey=y8PN7cDmLp95WKZMtrYge4GnFf3JUkAQ"; //just a string
